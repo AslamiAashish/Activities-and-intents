@@ -1,0 +1,4 @@
+#Sun Apr 03 22:39:24 NPT 2022
+base.0=/Users/aashishaslami/AndroidStudioProjects/Activities-and-Intent-task/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
